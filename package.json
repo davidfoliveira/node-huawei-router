@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "async": "^3.2.0",
-    "jscrap": "^0.0.12",
-    "request": "^2.88.2"
+    "jscrap": "^0.0.12"
   },
   "name": "huawei-router",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "directories": {
     "lib": "lib"
